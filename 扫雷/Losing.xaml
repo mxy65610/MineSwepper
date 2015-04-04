@@ -1,0 +1,24 @@
+﻿<Window x:Class="扫雷.Losing"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:扫雷"
+        mc:Ignorable="d"
+        Title="失败了T_T" Height="272.093" Width="407.442" Opacity="12">
+    <Window.Foreground>
+        <ImageBrush/>
+    </Window.Foreground>
+    <Window.Background>
+        <ImageBrush ImageSource="Properties/Resources/Losing.JPG" Opacity="0.2"/>
+    </Window.Background>
+    <Grid>
+        <Grid.Background>
+            <ImageBrush/>
+        </Grid.Background>
+        <Label x:Name="label" Content="对不起，您失败了: (" HorizontalAlignment="Left" Height="60" Margin="61,29,0,0" VerticalAlignment="Top" Width="306" FontSize="21.333" Foreground="#FFF1E9E9"/>
+        <Button x:Name="重新选择难度" Content="重新选择难度" HorizontalAlignment="Left" Margin="77,170,0,0" VerticalAlignment="Top" Width="86" Click="button_Click" Height="47"/>
+        <Button x:Name="退出游戏" Content="退出游戏" HorizontalAlignment="Left" Margin="239,170,0,0" VerticalAlignment="Top" Width="86" Height="47" Click="退出游戏_Click"/>
+
+    </Grid>
+</Window>

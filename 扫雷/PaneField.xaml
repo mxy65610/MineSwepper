@@ -1,0 +1,27 @@
+﻿<Window x:Class="扫雷.PaneField"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:扫雷"
+        mc:Ignorable="d"
+        Title="扫雷" Height="745" Width="692" Icon="Properties/Resources/MainWindowICON.png">
+    <Grid Margin="0,0,2,0">
+        <Grid.Background>
+            <ImageBrush/>
+        </Grid.Background>
+        <Canvas HorizontalAlignment="Left" Height="550" VerticalAlignment="Top" Width="550" Margin="47,85,0,0" Name="Field"/>
+        <Button x:Name="button" Content="" HorizontalAlignment="Left" VerticalAlignment="Top" Width="55" Margin="282,20,0,0" Height="48" Click="ReInit_Click">
+            <Button.Background>
+                <ImageBrush ImageSource="F:\扫雷\扫雷\扫雷\Properties\Resources\Smile.jpeg"/>
+            </Button.Background>
+        </Button>
+        <Button x:Name="button1" Content="" HorizontalAlignment="Left" Margin="380,20,0,0" VerticalAlignment="Top" Width="56" Height="48">
+            <Button.Background>
+                <ImageBrush ImageSource="Properties/Resources/Timer.jpg"/>
+            </Button.Background>
+        </Button>
+        <TextBox x:Name="textBox" HorizontalAlignment="Left" Height="48" Margin="464,20,0,0" TextWrapping="Wrap"   VerticalAlignment="Top" Width="115" Text="0"/>
+
+    </Grid>
+</Window>

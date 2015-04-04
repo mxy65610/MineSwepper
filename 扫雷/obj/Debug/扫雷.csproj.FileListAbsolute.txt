@@ -1,0 +1,46 @@
+c:\users\祥毅\documents\visual studio 2015\Projects\扫雷\扫雷\bin\Debug\扫雷.exe.config
+c:\users\祥毅\documents\visual studio 2015\Projects\扫雷\扫雷\bin\Debug\扫雷.exe
+c:\users\祥毅\documents\visual studio 2015\Projects\扫雷\扫雷\bin\Debug\扫雷.pdb
+c:\users\祥毅\documents\visual studio 2015\Projects\扫雷\扫雷\obj\Debug\扫雷.csprojResolveAssemblyReference.cache
+c:\users\祥毅\documents\visual studio 2015\Projects\扫雷\扫雷\obj\Debug\App.g.cs
+c:\users\祥毅\documents\visual studio 2015\Projects\扫雷\扫雷\obj\Debug\扫雷_MarkupCompile.cache
+c:\users\祥毅\documents\visual studio 2015\Projects\扫雷\扫雷\obj\Debug\扫雷_MarkupCompile.lref
+c:\users\祥毅\documents\visual studio 2015\Projects\扫雷\扫雷\obj\Debug\扫雷.g.resources
+c:\users\祥毅\documents\visual studio 2015\Projects\扫雷\扫雷\obj\Debug\扫雷.Properties.Resources.resources
+c:\users\祥毅\documents\visual studio 2015\Projects\扫雷\扫雷\obj\Debug\扫雷.csproj.GenerateResource.Cache
+c:\users\祥毅\documents\visual studio 2015\Projects\扫雷\扫雷\obj\Debug\扫雷.exe
+c:\users\祥毅\documents\visual studio 2015\Projects\扫雷\扫雷\obj\Debug\扫雷.pdb
+c:\users\祥毅\documents\visual studio 2015\Projects\扫雷\扫雷\obj\Debug\LevelChooser.g.cs
+c:\users\祥毅\documents\visual studio 2015\Projects\扫雷\扫雷\obj\Debug\PaneField.g.cs
+c:\users\祥毅\documents\visual studio 2015\Projects\扫雷\扫雷\obj\Debug\LevelChooser.baml
+c:\users\祥毅\documents\visual studio 2015\Projects\扫雷\扫雷\obj\Debug\PaneField.baml
+c:\Users\祥毅\Documents\Visual Studio 2015\Projects\扫雷\扫雷\obj\Debug\MainWindow.g.cs
+c:\Users\祥毅\Documents\Visual Studio 2015\Projects\扫雷\扫雷\obj\Debug\MainWindow.baml
+F:\扫雷\扫雷\扫雷\bin\Debug\扫雷.exe.config
+F:\扫雷\扫雷\扫雷\obj\Debug\扫雷.exe
+F:\扫雷\扫雷\扫雷\obj\Debug\扫雷.pdb
+F:\扫雷\扫雷\扫雷\bin\Debug\扫雷.exe
+F:\扫雷\扫雷\扫雷\bin\Debug\扫雷.pdb
+F:\扫雷\扫雷\扫雷\obj\Debug\LevelChooser.g.cs
+F:\扫雷\扫雷\扫雷\obj\Debug\MainWindow.g.cs
+F:\扫雷\扫雷\扫雷\obj\Debug\PaneField.g.cs
+F:\扫雷\扫雷\扫雷\obj\Debug\App.g.cs
+F:\扫雷\扫雷\扫雷\obj\Debug\扫雷_MarkupCompile.cache
+F:\扫雷\扫雷\扫雷\obj\Debug\扫雷_MarkupCompile.lref
+F:\扫雷\扫雷\扫雷\obj\Debug\LevelChooser.baml
+F:\扫雷\扫雷\扫雷\obj\Debug\MainWindow.baml
+F:\扫雷\扫雷\扫雷\obj\Debug\PaneField.baml
+F:\扫雷\扫雷\扫雷\obj\Debug\扫雷.g.resources
+F:\扫雷\扫雷\扫雷\obj\Debug\扫雷.Properties.Resources.resources
+F:\扫雷\扫雷\扫雷\obj\Debug\扫雷.csproj.GenerateResource.Cache
+F:\扫雷\扫雷\扫雷\obj\Debug\Losing.g.cs
+F:\扫雷\扫雷\扫雷\obj\Debug\Losing.baml
+F:\扫雷\扫雷\扫雷\bin\Debug\扫雷.exe.manifest
+F:\扫雷\扫雷\扫雷\bin\Debug\扫雷.application
+F:\扫雷\扫雷\扫雷\obj\Debug\扫雷.exe.manifest
+F:\扫雷\扫雷\扫雷\obj\Debug\扫雷.application
+F:\扫雷\扫雷\扫雷\obj\Debug\Wining.g.cs
+F:\扫雷\扫雷\扫雷\obj\Debug\Wining.baml
+F:\扫雷\扫雷\扫雷\obj\Debug\扫雷.csprojResolveAssemblyReference.cache
+F:\扫雷\扫雷\扫雷\obj\Debug\HeroRank.g.cs
+F:\扫雷\扫雷\扫雷\obj\Debug\HeroRank.baml
